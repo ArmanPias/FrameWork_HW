@@ -1,14 +1,4 @@
-# Eclipse settings
-.settings/
-
-# Eclipse project files
 .project
-
-# Eclipse classpath
-.classpath
-
-# Maven target folder
-target/
-
-# TestNG test output folder
-test-output/
+.settings
+target
+test-output
