@@ -1,0 +1,5 @@
+package utils;
+
+public enum Constant {
+	BROWSER,URL,PAGELOAD_WAIT,CHROME,FIREFOX,IMPLICITLY_WAIT, EXPLICITLY_WAIT,
+}
